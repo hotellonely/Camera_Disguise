@@ -16,10 +16,18 @@ to get help:
 python camera_disguise.py
 
 typical usage:
+```
 python camera_disguise.py "path to your dng files" "your camera model" "disguise model"
+```
 e.g.
 Windows:
+```
 python camera_disguise.py "C:\Photos To Edit\" A7R4 A7R5
+```
+```
 python camera_disguise.py "C:\Photos\" A7S3 A7R5
+```
 Mac/Linux:
+```
 python camera_disguise.py "/Volumes/MyBigSSD/Photos/" A7S3 A7R5
+```
