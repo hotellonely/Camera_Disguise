@@ -3,6 +3,8 @@ A small python+exiftool script tool to disguise your RAW files, enabling differe
 
 # Requirements
 - Python 3
+- Grep: 
+for Windows users, see the installation guide here: https://gnuwin32.sourceforge.net/packages/grep.htm
 - Exiftool: 
 see the installation guide here: https://exiftool.org/install.html
 - A DNG Converter to convert the RAW file to DNG:
